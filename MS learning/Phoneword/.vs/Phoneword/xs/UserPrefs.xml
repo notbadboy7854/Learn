@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{85D12CA7-7DF0-417B-A0E1-A835D7C95A62}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Phoneword.iOS/Main.cs">
+    <Files>
+      <File FileName="Phoneword/MainPage.xaml" Line="21" Column="1" />
+      <File FileName="Phoneword/App.xaml" Line="1" Column="1" />
+      <File FileName="Phoneword/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="Phoneword/MainPage.xaml.cs" Line="8" Column="26" />
+      <File FileName="Phoneword/SharedResources.cs" Line="17" Column="6" />
+      <File FileName="Phoneword.iOS/Main.cs" Line="10" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Phoneword" expanded="True">
+            <Node name="Phoneword" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="Phoneword.Android" expanded="True" />
+            <Node name="Phoneword.iOS" expanded="True">
+              <Node name="Main.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Phoneword.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6F337567-1E2A-403A-A10B-4CD16F39E99C" />
+  <MonoDevelop.Ide.ItemProperties.Phoneword.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

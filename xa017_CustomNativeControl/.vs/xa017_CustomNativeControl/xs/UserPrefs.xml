@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{E97F386E-D715-43E9-919D-28B148027227}|Default">
+  <MonoDevelop.Ide.ItemProperties.xa017__CustomNativeControl.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="xa017_CustomNativeControl" expanded="True">
+            <Node name="xa017_CustomNativeControl" expanded="True" />
+            <Node name="xa017_CustomNativeControl.Android" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.xa017__CustomNativeControl FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.xa017__CustomNativeControl.iOS FirstBuild="True" />
+</Properties>
