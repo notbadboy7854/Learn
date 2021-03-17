@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9hlPno6YWGT1pqC/ushhIpsPOwjws8MQJI03/qpLE9EIVXUubDFYL9appWk8NNZ1ycSwHZDVrGGRRGJTFl8A+g==",
+  "success": true,
+  "projectFilePath": "/Users/notbadboy/Projects/xa016_Databinding2/xa016_Databinding2.iOS/xa016_Databinding2.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/notbadboy/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/notbadboy/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/notbadboy/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

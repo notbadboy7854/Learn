@@ -1,0 +1,14 @@
+/Users/notbadboy/Projects/xa015_DataBinding/xa015_DataBinding/bin/Debug/netstandard2.0/xa015_DataBinding.deps.json
+/Users/notbadboy/Projects/xa015_DataBinding/xa015_DataBinding/bin/Debug/netstandard2.0/xa015_DataBinding.dll
+/Users/notbadboy/Projects/xa015_DataBinding/xa015_DataBinding/bin/Debug/netstandard2.0/ref/xa015_DataBinding.dll
+/Users/notbadboy/Projects/xa015_DataBinding/xa015_DataBinding/bin/Debug/netstandard2.0/xa015_DataBinding.pdb
+/Users/notbadboy/Projects/xa015_DataBinding/xa015_DataBinding/obj/Debug/netstandard2.0/xa015_DataBinding.csprojAssemblyReference.cache
+/Users/notbadboy/Projects/xa015_DataBinding/xa015_DataBinding/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/notbadboy/Projects/xa015_DataBinding/xa015_DataBinding/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/notbadboy/Projects/xa015_DataBinding/xa015_DataBinding/obj/Debug/netstandard2.0/xa015_DataBinding.AssemblyInfoInputs.cache
+/Users/notbadboy/Projects/xa015_DataBinding/xa015_DataBinding/obj/Debug/netstandard2.0/xa015_DataBinding.AssemblyInfo.cs
+/Users/notbadboy/Projects/xa015_DataBinding/xa015_DataBinding/obj/Debug/netstandard2.0/xa015_DataBinding.csproj.CoreCompileInputs.cache
+/Users/notbadboy/Projects/xa015_DataBinding/xa015_DataBinding/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/notbadboy/Projects/xa015_DataBinding/xa015_DataBinding/obj/Debug/netstandard2.0/xa015_DataBinding.dll
+/Users/notbadboy/Projects/xa015_DataBinding/xa015_DataBinding/obj/Debug/netstandard2.0/ref/xa015_DataBinding.dll
+/Users/notbadboy/Projects/xa015_DataBinding/xa015_DataBinding/obj/Debug/netstandard2.0/xa015_DataBinding.pdb

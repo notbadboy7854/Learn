@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="xa012.MainPage">
+
+    <AbsoluteLayout>
+        <!--AbsoluteLayout.layoutbounds ="x좌표, y좌표, 폭, 높잉-->
+        <Label Text="안녕하세요." AbsoluteLayout.LayoutBounds="100, 100, 100, 30" BackgroundColor="green" />
+
+        <Label Text="안녕하세요." AbsoluteLayout.LayoutBounds="120, 120, 100, 30" BackgroundColor="yellow" />
+
+        <!--AbsoluteLayout.LayoutFlags 비율(앞의 값들이 비율임 0.5는 50%)-->
+        <Label Text="안녕하세요." AbsoluteLayout.LayoutBounds="0.5, 0.5, 0.5, 0.5" AbsoluteLayout.LayoutFlags="All" BackgroundColor="blue" />
+    </AbsoluteLayout>
+
+</ContentPage>

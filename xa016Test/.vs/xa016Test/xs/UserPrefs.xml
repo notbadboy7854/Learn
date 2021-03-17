@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{BD33EB8F-93E7-4C5B-9134-A993A53C630C}|Default">
+  <MonoDevelop.Ide.ItemProperties.xa016Test FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.xa016Test.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="xa016Test/MainPage.xaml">
+    <Files>
+      <File FileName="xa016Test/Test.cs" Line="6" Column="22" />
+      <File FileName="xa016Test/MainPage.xaml" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="xa016Test" expanded="True">
+            <Node name="xa016Test" expanded="True">
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.xa016Test.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{5C542D9F-DC77-4B41-9E0D-57F96DC48F20}|Default">
+  <MonoDevelop.Ide.ItemProperties.xa004.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6F337567-1E2A-403A-A10B-4CD16F39E99C" />
+  <MonoDevelop.Ide.ItemProperties.xa004.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="xa004/MainPage.xaml.cs">
+    <Files>
+      <File FileName="xa004/MainPage.xaml" Line="10" Column="53" />
+      <File FileName="xa004/MainPage.xaml.cs" Line="11" Column="41" />
+      <File FileName="xa004/IDialer.cs" Line="6" Column="42" />
+      <File FileName="xa004.Android/Caller_android.cs" Line="5" Column="1" />
+      <File FileName="xa004.iOS/Caller_iOS.cs" Line="6" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="xa004" expanded="True">
+            <Node name="xa004" expanded="True">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="xa004.Android" expanded="True" />
+            <Node name="xa004.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

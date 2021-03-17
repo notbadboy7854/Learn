@@ -1,0 +1,14 @@
+/Users/notbadboy/Projects/xa011/xa011/bin/Debug/netstandard2.0/xa011.deps.json
+/Users/notbadboy/Projects/xa011/xa011/bin/Debug/netstandard2.0/xa011.dll
+/Users/notbadboy/Projects/xa011/xa011/bin/Debug/netstandard2.0/ref/xa011.dll
+/Users/notbadboy/Projects/xa011/xa011/bin/Debug/netstandard2.0/xa011.pdb
+/Users/notbadboy/Projects/xa011/xa011/obj/Debug/netstandard2.0/xa011.csprojAssemblyReference.cache
+/Users/notbadboy/Projects/xa011/xa011/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/notbadboy/Projects/xa011/xa011/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/notbadboy/Projects/xa011/xa011/obj/Debug/netstandard2.0/xa011.AssemblyInfoInputs.cache
+/Users/notbadboy/Projects/xa011/xa011/obj/Debug/netstandard2.0/xa011.AssemblyInfo.cs
+/Users/notbadboy/Projects/xa011/xa011/obj/Debug/netstandard2.0/xa011.csproj.CoreCompileInputs.cache
+/Users/notbadboy/Projects/xa011/xa011/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/notbadboy/Projects/xa011/xa011/obj/Debug/netstandard2.0/xa011.dll
+/Users/notbadboy/Projects/xa011/xa011/obj/Debug/netstandard2.0/ref/xa011.dll
+/Users/notbadboy/Projects/xa011/xa011/obj/Debug/netstandard2.0/xa011.pdb

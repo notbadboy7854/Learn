@@ -1,0 +1,16 @@
+/Users/notbadboy/Projects/xa005/xa005/bin/Debug/netstandard2.0/xa005.deps.json
+/Users/notbadboy/Projects/xa005/xa005/bin/Debug/netstandard2.0/xa005.dll
+/Users/notbadboy/Projects/xa005/xa005/bin/Debug/netstandard2.0/ref/xa005.dll
+/Users/notbadboy/Projects/xa005/xa005/bin/Debug/netstandard2.0/xa005.pdb
+/Users/notbadboy/Projects/xa005/xa005/obj/Debug/netstandard2.0/xa005.csprojAssemblyReference.cache
+/Users/notbadboy/Projects/xa005/xa005/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/notbadboy/Projects/xa005/xa005/obj/Debug/netstandard2.0/CPage_Android.xaml.g.cs
+/Users/notbadboy/Projects/xa005/xa005/obj/Debug/netstandard2.0/CPage_iOS.xaml.g.cs
+/Users/notbadboy/Projects/xa005/xa005/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/notbadboy/Projects/xa005/xa005/obj/Debug/netstandard2.0/xa005.AssemblyInfoInputs.cache
+/Users/notbadboy/Projects/xa005/xa005/obj/Debug/netstandard2.0/xa005.AssemblyInfo.cs
+/Users/notbadboy/Projects/xa005/xa005/obj/Debug/netstandard2.0/xa005.csproj.CoreCompileInputs.cache
+/Users/notbadboy/Projects/xa005/xa005/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/notbadboy/Projects/xa005/xa005/obj/Debug/netstandard2.0/xa005.dll
+/Users/notbadboy/Projects/xa005/xa005/obj/Debug/netstandard2.0/ref/xa005.dll
+/Users/notbadboy/Projects/xa005/xa005/obj/Debug/netstandard2.0/xa005.pdb

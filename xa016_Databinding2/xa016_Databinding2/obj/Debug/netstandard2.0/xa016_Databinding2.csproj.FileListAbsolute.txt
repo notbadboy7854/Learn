@@ -1,0 +1,14 @@
+/Users/notbadboy/Projects/xa016_Databinding2/xa016_Databinding2/bin/Debug/netstandard2.0/xa016_Databinding2.deps.json
+/Users/notbadboy/Projects/xa016_Databinding2/xa016_Databinding2/bin/Debug/netstandard2.0/xa016_Databinding2.dll
+/Users/notbadboy/Projects/xa016_Databinding2/xa016_Databinding2/bin/Debug/netstandard2.0/ref/xa016_Databinding2.dll
+/Users/notbadboy/Projects/xa016_Databinding2/xa016_Databinding2/bin/Debug/netstandard2.0/xa016_Databinding2.pdb
+/Users/notbadboy/Projects/xa016_Databinding2/xa016_Databinding2/obj/Debug/netstandard2.0/xa016_Databinding2.csprojAssemblyReference.cache
+/Users/notbadboy/Projects/xa016_Databinding2/xa016_Databinding2/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/notbadboy/Projects/xa016_Databinding2/xa016_Databinding2/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/notbadboy/Projects/xa016_Databinding2/xa016_Databinding2/obj/Debug/netstandard2.0/xa016_Databinding2.AssemblyInfoInputs.cache
+/Users/notbadboy/Projects/xa016_Databinding2/xa016_Databinding2/obj/Debug/netstandard2.0/xa016_Databinding2.AssemblyInfo.cs
+/Users/notbadboy/Projects/xa016_Databinding2/xa016_Databinding2/obj/Debug/netstandard2.0/xa016_Databinding2.csproj.CoreCompileInputs.cache
+/Users/notbadboy/Projects/xa016_Databinding2/xa016_Databinding2/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/notbadboy/Projects/xa016_Databinding2/xa016_Databinding2/obj/Debug/netstandard2.0/xa016_Databinding2.dll
+/Users/notbadboy/Projects/xa016_Databinding2/xa016_Databinding2/obj/Debug/netstandard2.0/ref/xa016_Databinding2.dll
+/Users/notbadboy/Projects/xa016_Databinding2/xa016_Databinding2/obj/Debug/netstandard2.0/xa016_Databinding2.pdb

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "VROiQjHcNe+M23pHp3e3DMqTKg01rDZhv/Ol0mjfdMxlXfgrjjdlQlpQmZ2lKi8LAhyyZ1w9To9Dw8xaUInQ4w==",
+  "success": true,
+  "projectFilePath": "/Users/notbadboy/Projects/xa011/xa011/xa011.csproj",
+  "expectedPackageFiles": [
+    "/Users/notbadboy/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/notbadboy/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/notbadboy/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/notbadboy/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/notbadboy/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

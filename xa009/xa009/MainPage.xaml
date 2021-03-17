@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="xa009.MainPage">
+    <ScrollView>
+        <StackLayout>
+            <Label Text="Welcome to Xamarin.Forms!" HorizontalOptions="Center" BackgroundColor="Green" FontSize="30"/>
+            <Label Text="Welcome to Xamarin.Forms!" HorizontalOptions="Center" BackgroundColor="Green" FontSize="30"/>
+            <Label Text="Welcome to Xamarin.Forms!" HorizontalOptions="Center" BackgroundColor="Green" FontSize="30"/>
+            <Label Text="Welcome to Xamarin.Forms!" HorizontalOptions="Center" BackgroundColor="Green" FontSize="30"/>
+            <Label Text="Welcome to Xamarin.Forms!" HorizontalOptions="Center" BackgroundColor="Green" FontSize="30"/>
+            <Label Text="Welcome to Xamarin.Forms!" HorizontalOptions="Center" BackgroundColor="Green" FontSize="30"/>
+            <Label Text="Welcome to Xamarin.Forms!" HorizontalOptions="Center" BackgroundColor="Green" FontSize="30"/>
+            <Label Text="Welcome to Xamarin.Forms!" HorizontalOptions="Center" BackgroundColor="Green" FontSize="30"/>
+
+            <Label Text="Welcome to Xamarin.Forms!" HorizontalOptions="Center" BackgroundColor="Red" FontSize="30"/>
+            <Label Text="Welcome to Xamarin.Forms!" HorizontalOptions="Center" BackgroundColor="Yellow" FontSize="30"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

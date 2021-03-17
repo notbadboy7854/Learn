@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:xa016_databinding2="clr-namespace:xa016_Databinding2"
+             
+             x:Class="xa016_Databinding2.MainPage">
+
+    <StackLayout>
+        
+            <!--<Label BindingContext="{xa016_databinding2:CData}" Text="{Binding Count} " HorizontalTextAlignment="Center" TextColor="Green" FontSize="36">-->
+            <Label Text="{Binding Count} " HorizontalTextAlignment="Center" TextColor="Green" FontSize="36">
+                <Label.BindingContext>
+                    <xa016_databinding2:CData />
+                </Label.BindingContext>
+            </Label>
+    </StackLayout>
+
+</ContentPage>

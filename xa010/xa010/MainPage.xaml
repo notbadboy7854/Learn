@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="xa010.MainPage">
+
+    <StackLayout Orientation="Vertical" Spacing="30">
+        <Label Text="form1!" HorizontalOptions="Center" BackgroundColor="Yellow" FontSize="36"/>
+        <Label Text="form2!" HorizontalOptions="Center" BackgroundColor="Green" FontSize="36"/>
+    </StackLayout>
+
+</ContentPage>

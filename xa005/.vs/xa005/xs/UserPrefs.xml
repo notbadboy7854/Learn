@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{D143876A-6554-44D0-A72D-D17B394C769B}|Default">
+  <MonoDevelop.Ide.ItemProperties.xa005.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.ItemProperties.xa005.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6F337567-1E2A-403A-A10B-4CD16F39E99C" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="xa005/App.xaml.cs">
+    <Files>
+      <File FileName="xa005/MainPage.xaml" Line="11" Column="52" />
+      <File FileName="xa005/CPage_Android.xaml" Line="1" Column="5" />
+      <File FileName="xa005/CPage_Android.xaml.cs" Line="1" Column="1" />
+      <File FileName="xa005/CPage_iOS.xaml" Line="9" Column="17" />
+      <File FileName="xa005/CPage_iOS.xaml.cs" Line="1" Column="1" />
+      <File FileName="xa005/App.xaml" Line="6" Column="1" />
+      <File FileName="xa005/App.xaml.cs" Line="29" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="xa005" expanded="True">
+            <Node name="xa005" expanded="True">
+              <Node name="App.xaml" expanded="True">
+                <Node name="App.xaml.cs" selected="True" />
+              </Node>
+              <Node name="CPage_iOS.xaml" expanded="True" />
+            </Node>
+            <Node name="xa005.Android" expanded="True" />
+            <Node name="xa005.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

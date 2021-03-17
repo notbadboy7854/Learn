@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{AF92CEE4-0E61-46C2-A9D8-B773DE436EE6}|Default">
+  <MonoDevelop.Ide.ItemProperties.xa016__Databinding2.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="xa016_Databinding2/MainPage.xaml">
+    <Files>
+      <File FileName="xa016_Databinding2/MainPage.xaml" Line="18" Column="1" />
+      <File FileName="xa016_Databinding2/CData.cs" Line="13" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="xa016_Databinding2" expanded="True">
+            <Node name="xa016_Databinding2" expanded="True">
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.xa016__Databinding2.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6F337567-1E2A-403A-A10B-4CD16F39E99C" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="xa011.MainPage">
+
+   <Grid ColumnSpacing="20" RowSpacing="20">
+       <Grid.RowDefinitions>
+           <!--행-->
+           <RowDefinition Height="2*"/> 
+           <RowDefinition Height="*"/>
+           <RowDefinition Height="*"/>
+           <!--height : 숫자, auto(글자 크기), * 가능(남는거 다)-->
+
+
+       </Grid.RowDefinitions>
+
+       <Grid.ColumnDefinitions>
+           <!--열-->
+           <ColumnDefinition/>
+           <ColumnDefinition/>
+       </Grid.ColumnDefinitions>
+
+       <Label Text="(0,0)" Grid.Row="0" Grid.Column="0" FontSize="20" BackgroundColor="yellow" Grid.ColumnSpan="2"/>
+       <Label Text="(1,0)" Grid.Row="1" Grid.Column="0" FontSize="20" BackgroundColor="Blue" Grid.RowSpan="2"/>
+       <Label Text="(1,0)" Grid.Row="1" Grid.Column="1" FontSize="20" BackgroundColor="red" />
+       <Label Text="(2,1)" Grid.Row="2" Grid.Column="1" FontSize="20" BackgroundColor="Gray"/>
+   </Grid>
+
+</ContentPage>
+

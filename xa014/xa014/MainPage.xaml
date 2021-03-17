@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="xa014.MainPage">
+
+    <StackLayout Padding="20">
+        <!--글자 마저 표시하고 다음줄 넘김 / 글자가 넘어가면 넘김-->
+        <Label LineBreakMode="CharacterWrap" Text="안녕하세요. 감사해요. 잘있어요. 다시만나요."/>
+        <Label LineBreakMode="CharacterWrap" Text="Dynamic Double D in the place to be. Ring My Bell."/>
+
+
+        <!--단어 마저 표시하고 다음줄 넘김 / 단어가 넘어가면 넘김-->
+        <Label LineBreakMode="WordWrap" Text="안녕하세요. 감사해요. 잘있어요. 다시만나요."/>
+        <Label LineBreakMode="WordWrap" Text="Dynamic Double D in the place to be. Ring My Bell."/>
+
+        <!--보여줄 수 있는 만큼 보여주고 짤림 -> iOS는 안짤리고 위와 같네..?-->
+        <Label LineBreakMode="NoWrap" Text="안녕하세요. 감사해요.잘있어요. 다시만나요."/>
+        <Label LineBreakMode="NoWrap" Text="Dynamic Double D in the place to be. Ring My Bell."/>
+
+        <!--어디서 짜를지 정해줌 -->
+        <Label LineBreakMode="HeadTruncation" Text="안녕하세요. 감사해요.잘있어요.가나다라마바사 다시만나요.가나다라마바사"/>
+        <Label LineBreakMode="TailTruncation" Text="Dynamic Double D in the place to be. Ring My Bell."/>
+
+        <!--FontAttributes에 필요한 글자 속성들 , 로 구분해서 넣음-->
+        <Label Text="글자체 테스트" FontAttributes="Bold, Italic"/>
+
+        <Label TextColor="Red" Text="Text Color : Red"/>
+        <Label TextColor="Green" Text="Text Color : Green"/>
+        <Label TextColor="blue" Text="Text Color : Blue"/>
+        <Label TextColor="#E118a1" Text="Text Color : #E118a1"/>
+
+        <Label FontSize="Large" Text="Font size : Large"/>
+        <Label FontSize="Medium" Text="Font size : Medium"/>
+        <Label FontSize="Small" Text="Font size : small"/>
+        <Label FontSize="Default" Text="Font size : default"/>
+        <Label FontSize="Micro" Text="Font size : micro"/>
+    </StackLayout>
+
+</ContentPage>
