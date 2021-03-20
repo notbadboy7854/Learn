@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{85D12CA7-7DF0-417B-A0E1-A835D7C95A62}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Phoneword.iOS/Main.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Phoneword/MainPage.xaml">
     <Files>
       <File FileName="Phoneword/MainPage.xaml" Line="21" Column="1" />
       <File FileName="Phoneword/App.xaml" Line="1" Column="1" />
@@ -14,12 +14,10 @@
           <Node name="Phoneword" expanded="True">
             <Node name="Phoneword" expanded="True">
               <Node name="Dependencies" expanded="True" />
-              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
             </Node>
             <Node name="Phoneword.Android" expanded="True" />
-            <Node name="Phoneword.iOS" expanded="True">
-              <Node name="Main.cs" selected="True" />
-            </Node>
+            <Node name="Phoneword.iOS" expanded="True" />
           </Node>
         </State>
       </Pad>

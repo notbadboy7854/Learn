@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{C28C43B3-A314-4FDA-897B-DC99E5F8E4AE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookClient/BookClient/Data/BookManager.cs">
+    <Files>
+      <File FileName="BookClient/BookClient/Data/Book.cs" Line="12" Column="42" />
+      <File FileName="BookClient/BookClient/Data/BookManager.cs" Line="47" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BookClient" expanded="True">
+            <Node name="BookClient" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="BookManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BookClient.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28_1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

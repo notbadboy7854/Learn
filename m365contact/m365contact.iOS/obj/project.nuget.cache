@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wq3HYpRw8YtESUVHwjX4SrJLlsM15h4UYD5A1PFNOrU1oaEOtvPeLjiXGbd3CLp5Ccpxf8nmhsIl2VY9sF5/ow==",
+  "success": true,
+  "projectFilePath": "/Users/notbadboy/Documents/Learn/Learn/m365contact/m365contact.iOS/m365contact.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/notbadboy/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/notbadboy/.nuget/packages/microsoft.graph/3.27.0/microsoft.graph.3.27.0.nupkg.sha512",
+    "/Users/notbadboy/.nuget/packages/microsoft.graph.core/1.24.0/microsoft.graph.core.1.24.0.nupkg.sha512",
+    "/Users/notbadboy/.nuget/packages/microsoft.identity.client/4.28.0/microsoft.identity.client.4.28.0.nupkg.sha512",
+    "/Users/notbadboy/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/notbadboy/.nuget/packages/system.componentmodel.typeconverter/4.3.0/system.componentmodel.typeconverter.4.3.0.nupkg.sha512",
+    "/Users/notbadboy/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "/Users/notbadboy/.nuget/packages/system.net.http/4.3.4/system.net.http.4.3.4.nupkg.sha512",
+    "/Users/notbadboy/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/notbadboy/.nuget/packages/system.runtime.serialization.formatters/4.3.0/system.runtime.serialization.formatters.4.3.0.nupkg.sha512",
+    "/Users/notbadboy/.nuget/packages/system.runtime.serialization.primitives/4.3.0/system.runtime.serialization.primitives.4.3.0.nupkg.sha512",
+    "/Users/notbadboy/.nuget/packages/system.security.securestring/4.3.0/system.security.securestring.4.3.0.nupkg.sha512",
+    "/Users/notbadboy/.nuget/packages/system.xml.xmldocument/4.3.0/system.xml.xmldocument.4.3.0.nupkg.sha512",
+    "/Users/notbadboy/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/notbadboy/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

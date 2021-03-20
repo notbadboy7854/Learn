@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JfmjtQEhLTalYEXDFvpIIhhzc3732JFbBjJoexIsM5YUbEk4CTiN0xIraPNC9BywN/9McJXFH61nnck51AdDZg==",
+  "success": true,
+  "projectFilePath": "/Users/notbadboy/Documents/Learn/Learn/MS learning/exercise1/start/BookClient/BookClient.iOS/BookClient.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/notbadboy/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/notbadboy/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/notbadboy/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/notbadboy/.nuget/packages/xamarin.forms/5.0.0.1931/xamarin.forms.5.0.0.1931.nupkg.sha512"
+  ],
+  "logs": []
+}

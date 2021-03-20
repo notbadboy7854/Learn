@@ -1,0 +1,14 @@
+/Users/notbadboy/Documents/Learn/Learn/m365contact/m365contact/bin/Debug/netstandard2.0/m365contact.deps.json
+/Users/notbadboy/Documents/Learn/Learn/m365contact/m365contact/bin/Debug/netstandard2.0/m365contact.dll
+/Users/notbadboy/Documents/Learn/Learn/m365contact/m365contact/bin/Debug/netstandard2.0/ref/m365contact.dll
+/Users/notbadboy/Documents/Learn/Learn/m365contact/m365contact/bin/Debug/netstandard2.0/m365contact.pdb
+/Users/notbadboy/Documents/Learn/Learn/m365contact/m365contact/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/notbadboy/Documents/Learn/Learn/m365contact/m365contact/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/notbadboy/Documents/Learn/Learn/m365contact/m365contact/obj/Debug/netstandard2.0/m365contact.AssemblyInfoInputs.cache
+/Users/notbadboy/Documents/Learn/Learn/m365contact/m365contact/obj/Debug/netstandard2.0/m365contact.AssemblyInfo.cs
+/Users/notbadboy/Documents/Learn/Learn/m365contact/m365contact/obj/Debug/netstandard2.0/m365contact.csproj.CoreCompileInputs.cache
+/Users/notbadboy/Documents/Learn/Learn/m365contact/m365contact/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/notbadboy/Documents/Learn/Learn/m365contact/m365contact/obj/Debug/netstandard2.0/m365contact.dll
+/Users/notbadboy/Documents/Learn/Learn/m365contact/m365contact/obj/Debug/netstandard2.0/ref/m365contact.dll
+/Users/notbadboy/Documents/Learn/Learn/m365contact/m365contact/obj/Debug/netstandard2.0/m365contact.pdb
+/Users/notbadboy/Documents/Learn/Learn/m365contact/m365contact/obj/Debug/netstandard2.0/m365contact.csprojAssemblyReference.cache

@@ -1,0 +1,131 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/notbadboy/Documents/Learn/Learn/m365contact/m365contact.Android/m365contact.Android.csproj": {}
+  },
+  "projects": {
+    "/Users/notbadboy/Documents/Learn/Learn/m365contact/m365contact.Android/m365contact.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/notbadboy/Documents/Learn/Learn/m365contact/m365contact.Android/m365contact.Android.csproj",
+        "projectName": "m365contact.Android",
+        "projectPath": "/Users/notbadboy/Documents/Learn/Learn/m365contact/m365contact.Android/m365contact.Android.csproj",
+        "packagesPath": "/Users/notbadboy/.nuget/packages/",
+        "outputPath": "/Users/notbadboy/Documents/Learn/Learn/m365contact/m365contact.Android/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/notbadboy/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid11.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid11.0": {
+            "projectReferences": {
+              "/Users/notbadboy/Documents/Learn/Learn/m365contact/m365contact/m365contact.csproj": {
+                "projectPath": "/Users/notbadboy/Documents/Learn/Learn/m365contact/m365contact/m365contact.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid11.0": {
+          "dependencies": {
+            "Microsoft.Identity.Client": {
+              "target": "Package",
+              "version": "[4.28.0, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2012, )"
+            }
+          }
+        }
+      }
+    },
+    "/Users/notbadboy/Documents/Learn/Learn/m365contact/m365contact/m365contact.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/notbadboy/Documents/Learn/Learn/m365contact/m365contact/m365contact.csproj",
+        "projectName": "m365contact",
+        "projectPath": "/Users/notbadboy/Documents/Learn/Learn/m365contact/m365contact/m365contact.csproj",
+        "packagesPath": "/Users/notbadboy/.nuget/packages/",
+        "outputPath": "/Users/notbadboy/Documents/Learn/Learn/m365contact/m365contact/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/notbadboy/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.Graph": {
+              "target": "Package",
+              "version": "[3.27.0, )"
+            },
+            "Microsoft.Identity.Client": {
+              "target": "Package",
+              "version": "[4.28.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2012, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

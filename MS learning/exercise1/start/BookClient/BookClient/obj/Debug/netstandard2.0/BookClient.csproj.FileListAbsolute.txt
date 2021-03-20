@@ -1,0 +1,12 @@
+/Users/notbadboy/Documents/Learn/Learn/MS learning/exercise1/start/BookClient/BookClient/bin/Debug/netstandard2.0/BookClient.deps.json
+/Users/notbadboy/Documents/Learn/Learn/MS learning/exercise1/start/BookClient/BookClient/bin/Debug/netstandard2.0/BookClient.dll
+/Users/notbadboy/Documents/Learn/Learn/MS learning/exercise1/start/BookClient/BookClient/bin/Debug/netstandard2.0/BookClient.pdb
+/Users/notbadboy/Documents/Learn/Learn/MS learning/exercise1/start/BookClient/BookClient/obj/Debug/netstandard2.0/BookClient.csprojAssemblyReference.cache
+/Users/notbadboy/Documents/Learn/Learn/MS learning/exercise1/start/BookClient/BookClient/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/notbadboy/Documents/Learn/Learn/MS learning/exercise1/start/BookClient/BookClient/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/notbadboy/Documents/Learn/Learn/MS learning/exercise1/start/BookClient/BookClient/obj/Debug/netstandard2.0/BookClient.AssemblyInfoInputs.cache
+/Users/notbadboy/Documents/Learn/Learn/MS learning/exercise1/start/BookClient/BookClient/obj/Debug/netstandard2.0/BookClient.AssemblyInfo.cs
+/Users/notbadboy/Documents/Learn/Learn/MS learning/exercise1/start/BookClient/BookClient/obj/Debug/netstandard2.0/BookClient.csproj.CoreCompileInputs.cache
+/Users/notbadboy/Documents/Learn/Learn/MS learning/exercise1/start/BookClient/BookClient/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/notbadboy/Documents/Learn/Learn/MS learning/exercise1/start/BookClient/BookClient/obj/Debug/netstandard2.0/BookClient.dll
+/Users/notbadboy/Documents/Learn/Learn/MS learning/exercise1/start/BookClient/BookClient/obj/Debug/netstandard2.0/BookClient.pdb

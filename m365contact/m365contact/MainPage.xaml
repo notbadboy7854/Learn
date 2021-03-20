@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="m365contact.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Welcome to Xamarin.Forms!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+
+        <StackLayout x:Name="userInfo"
+                         IsVisible="False"
+                         Padding="5,10">
+            <StackLayout Orientation="Horizontal">
+                        <Label Text="Displayname : "
+                               FontAttributes="Bold" />
+                        <Label x:Name="lblDisplayName"/>
+            </StackLayout>
+
+
+            <StackLayout Orientation="Horizontal">
+                        <Label Text="Mobile : "
+                               FontAttributes="Bold" />
+                        <Label x:Name="lblMobile"/>
+            </StackLayout>
+        </StackLayout>
+
+        <Button x:Name="btnSignInOut"
+                Text="Sign in"
+                Clicked="OnSigninOut"
+                VerticalOptions="Center"/>
+
+    </StackLayout>
+
+</ContentPage>
