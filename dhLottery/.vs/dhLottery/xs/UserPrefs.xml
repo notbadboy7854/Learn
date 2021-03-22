@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{542E0266-6332-4743-9340-D44E1957429B}|Default">
+  <MonoDevelop.Ide.ItemProperties.dhLottery.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6F337567-1E2A-403A-A10B-4CD16F39E99C" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="dhLottery/Pages/infoPage.xaml">
+    <Files>
+      <File FileName="dhLottery/MainPage.xaml" Line="21" Column="7" />
+      <File FileName="dhLottery/mono_crash.11a6748113.0.json" Line="1" Column="1" />
+      <File FileName="dhLottery/SplashPage.cs" Line="44" Column="1" />
+      <File FileName="dhLottery/App.xaml.cs" Line="5" Column="3" />
+      <File FileName="dhLottery/AssemblyInfo.cs" Line="3" Column="12" />
+      <File FileName="dhLottery/Pages/ResultPage.xaml" Line="6" Column="5" />
+      <File FileName="dhLottery/Pages/ResultPage.xaml.cs" Line="22" Column="1" />
+      <File FileName="dhLottery/MainPage.xaml.cs" Line="37" Column="21" />
+      <File FileName="dhLottery.Android/MainActivity.cs" Line="35" Column="1" />
+      <File FileName="dhLottery/Pages/infoPage.xaml" Line="8" Column="1" />
+      <File FileName="dhLottery/Pages/infoPage.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="dhLottery" expanded="True">
+            <Node name="dhLottery" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="infoPage.xaml" expanded="True" selected="True" />
+              </Node>
+            </Node>
+            <Node name="dhLottery.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="dhLottery.iOS" expanded="True">
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.dhLottery.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28_1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/notbadboy/Documents/Learn/Learn/dhLottery/dhLottery/Pages/SettingPage.xaml" relfile="dhLottery/Pages/SettingPage.xaml" line="12" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

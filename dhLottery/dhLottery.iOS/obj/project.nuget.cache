@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OLrRmTWsdN/7pAL35fcAdKxN9jkEnMhDszRdaYSzrPJMZOeE5k99fcGv6PijeZkhO/SdyJFsWDK4Le5yE/o+hQ==",
+  "success": true,
+  "projectFilePath": "/Users/notbadboy/Documents/Learn/Learn/dhLottery/dhLottery.iOS/dhLottery.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/notbadboy/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/notbadboy/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/notbadboy/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

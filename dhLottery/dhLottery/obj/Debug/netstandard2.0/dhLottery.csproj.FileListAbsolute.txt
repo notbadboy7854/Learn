@@ -1,0 +1,16 @@
+/Users/notbadboy/Documents/Learn/Learn/dhLottery/dhLottery/bin/Debug/netstandard2.0/dhLottery.deps.json
+/Users/notbadboy/Documents/Learn/Learn/dhLottery/dhLottery/bin/Debug/netstandard2.0/dhLottery.dll
+/Users/notbadboy/Documents/Learn/Learn/dhLottery/dhLottery/bin/Debug/netstandard2.0/ref/dhLottery.dll
+/Users/notbadboy/Documents/Learn/Learn/dhLottery/dhLottery/bin/Debug/netstandard2.0/dhLottery.pdb
+/Users/notbadboy/Documents/Learn/Learn/dhLottery/dhLottery/obj/Debug/netstandard2.0/dhLottery.csprojAssemblyReference.cache
+/Users/notbadboy/Documents/Learn/Learn/dhLottery/dhLottery/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/notbadboy/Documents/Learn/Learn/dhLottery/dhLottery/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/notbadboy/Documents/Learn/Learn/dhLottery/dhLottery/obj/Debug/netstandard2.0/dhLottery.AssemblyInfoInputs.cache
+/Users/notbadboy/Documents/Learn/Learn/dhLottery/dhLottery/obj/Debug/netstandard2.0/dhLottery.AssemblyInfo.cs
+/Users/notbadboy/Documents/Learn/Learn/dhLottery/dhLottery/obj/Debug/netstandard2.0/dhLottery.csproj.CoreCompileInputs.cache
+/Users/notbadboy/Documents/Learn/Learn/dhLottery/dhLottery/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/notbadboy/Documents/Learn/Learn/dhLottery/dhLottery/obj/Debug/netstandard2.0/dhLottery.dll
+/Users/notbadboy/Documents/Learn/Learn/dhLottery/dhLottery/obj/Debug/netstandard2.0/ref/dhLottery.dll
+/Users/notbadboy/Documents/Learn/Learn/dhLottery/dhLottery/obj/Debug/netstandard2.0/dhLottery.pdb
+/Users/notbadboy/Documents/Learn/Learn/dhLottery/dhLottery/obj/Debug/netstandard2.0/Pages/ResultPage.xaml.g.cs
+/Users/notbadboy/Documents/Learn/Learn/dhLottery/dhLottery/obj/Debug/netstandard2.0/Pages/infoPage.xaml.g.cs

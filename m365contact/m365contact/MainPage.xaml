@@ -23,6 +23,12 @@
                                FontAttributes="Bold" />
                         <Label x:Name="lblMobile"/>
             </StackLayout>
+
+             <StackLayout Orientation="Horizontal">
+                        <Label Text="Data : "
+                               FontAttributes="Bold" />
+                        <Label x:Name="lblData"/>
+            </StackLayout>
         </StackLayout>
 
         <Button x:Name="btnSignInOut"

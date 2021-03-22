@@ -98,7 +98,8 @@ namespace m365contact
                 {
                     //lblDisplayName.Text += user["displayName"].ToString();
                     lblDisplayName.Text += (string)user.SelectToken("value[0].displayName");
-                    lblMobile.Text += test;
+                    lblMobile.Text += (string)user.SelectToken("value[0].mobilePhone");
+                    lblData.Text += tt;
 
 
 
@@ -118,7 +119,8 @@ namespace m365contact
                 string serach2 = "'김영두')";
                 string fsearch = search1 + serach2;
 
-                HttpRequestMessage message = new HttpRequestMessage(HttpMethod.Get, "https://graph.microsoft.com/v1.0/users?$filter=startswith(displayName,'김영두')&$select=displayName");
+                //HttpRequestMessage message = new HttpRequestMessage(HttpMethod.Get, "https://graph.microsoft.com/v1.0/users?$filter=startswith(displayName,'김영두')&$select=displayName,");
+                HttpRequestMessage message = new HttpRequestMessage(HttpMethod.Get, "https://graph.microsoft.com/v1.0/users?$filter=startswith(displayName,'김영두')");
                 //HttpRequestMessage message = new HttpRequestMessage(HttpMethod.Get,fsearch);
 
                 message.Headers.Authorization = new System.Net.Http.Headers.AuthenticationHeaderValue("Bearer", token);

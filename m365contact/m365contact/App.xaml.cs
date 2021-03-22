@@ -24,7 +24,8 @@ namespace m365contact
         //MS GraphAPI 사용 App 정보
         public const string ApplicationId = "b7c2093b-f46f-4b89-8584-ff2b3458dce9";
 
-        public static string[] Scopes = { "User.ReadBasic.All" };
+        public static string[] Scopes = { "User.Read.All" };
+        //User.ReadBasic.All
         public static string Username = string.Empty;
 
         public static object ParentWindow { get; set; }
